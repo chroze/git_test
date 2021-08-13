@@ -1,0 +1,1 @@
+This is chroze's first git project!
